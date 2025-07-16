@@ -40,8 +40,17 @@ Experienced **Technical Architect** with **15+ years** in software architecture,
 
 ## 💼 **Professional Experience**
 
+### **Qubika** — *Legacy Code Migration*  
+**Engineering Expert** (Feb 2024 - Present)  
+**Technologies:** Python, OpenAI, Java, Spring boot, Oracle SQL
+- Led a team of developers embedded within the client’s engineering process.
+- Proposed and implemented key architectural improvements and migration strategies.
+- Balanced leadership, team coordination, and hands-on development.
+- Prototyped agents capable of performing context-aware refactoring tasks.
+- Designed a flexible framework for AI-supported code transformation.
+
 ### **Qubika** — *Mortgage Lending Platform for the U.S.*  
-**Engineering Expert** (Nov 2023 - Present)  
+**Engineering Expert** (Nov 2023 - Feb 2024)  
 **Technologies:** AWS, Microservices, Java with Spring, PostgreSQL, DynamoDB, Redis  
 - Spearheading the development of initiatives for a large-scale **mortgage lending platform**.
 - Successfully led and launched several projects in production.
